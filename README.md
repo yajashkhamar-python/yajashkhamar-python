@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi 👋, I'm Yajash Khamar
 
-<!--
-**yajashkhamar-python/yajashkhamar-python** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Full Stack Web Developer
 
-Here are some ideas to get you started:
+🎓 Computer Engineering Student at LJ University
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Passionate about building real-world web applications
+
+🌱 Currently learning:
+- React
+- Django
+- Node.js
+- Express.js
+- REST APIs
+
+## 🛠 Tech Stack
+
+Java • Python • JavaScript
+
+React • Node.js • Express.js
+
+Django • MySQL • MongoDB
+
+Git • GitHub
+
+## 🚀 Featured Projects
+
+🌦 Weather Analytics Dashboard
+
+👨‍💼 Staff Sync
+
+📸 Instagram Clone
+
+🏡 Innovation Village
+
+## 📫 Connect with Me
+
+LinkedIn
+
+Email

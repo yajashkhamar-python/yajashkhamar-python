@@ -92,13 +92,10 @@ https://github.com/yajashkhamar-python/Innovation-village
 
 # 📊 GitHub Statistics
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=yajashkhamar-python&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yajashkhamar-python&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=yajashkhamar-python&theme=tokyonight&hide_border=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=yajashkhamar-python&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
 
 ---
 

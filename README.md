@@ -1,156 +1,127 @@
 <div align="center">
 
-# 👋 Hi, I'm Yajash Khamar
+# Hi 👋, I'm Yajash Khamar
 
-### 💻 Full Stack Web Developer
-
-🎓 Computer Engineering Student at **LJ University**
-
-🚀 Passionate about building real-world web applications and solving problems through technology.
-
-🌱 Currently improving my skills in **Data Structures & Algorithms**, **Advanced React**, **Backend Development**, and **System Design**.
-
-📫 **Looking for Software Development Internship Opportunities**
-
-<br>
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;Computer+Engineering+Student;Building+Real-World+Projects;Always+Learning+New+Technologies" />
 
 </div>
 
 ---
 
-# 🚀 Tech Stack
+## 👨‍💻 About Me
+
+- 🎓 Computer Engineering Student at **LJ University**
+- 💻 Passionate about **Full Stack Web Development**
+- 🚀 Love building real-world applications using modern technologies
+- 🤝 Looking for **Software Development Internship Opportunities**
+- 🌱 Continuously improving through projects, DSA, and backend development
+
+---
+
+## 🚀 Tech Stack
 
 ### Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,javascript"/>
+<img src="https://skillicons.dev/icons?i=java,python,javascript" />
 </p>
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react"/>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react" />
 </p>
 
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,django"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,django" />
 </p>
 
 ### Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
 ---
 
-# 📊 GitHub Stats
+# 📌 Featured Projects
 
-<p align="center">
+### 🌦 Weather Analytics Dashboard
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=yajashkhamar-python&show_icons=true&theme=tokyonight&hide_border=true"/>
+Real-time weather analytics dashboard built using Open-Meteo API, Chart.js and JavaScript with weather forecasting, analytics and responsive UI.
+
+🔗 Repository:
+https://github.com/yajashkhamar-python/weather-analytics-dashboard
+
+---
+
+### 👨‍💼 StaffSync
+
+Employee Management System developed in Java with employee records management and administrative features.
+
+🔗 Repository:
+https://github.com/yajashkhamar-python/StaffSync
+
+---
+
+### 📸 Instagram Clone
+
+Responsive Instagram-inspired social media interface built using HTML, CSS, Bootstrap and JavaScript.
+
+🔗 Repository:
+https://github.com/yajashkhamar-python/instagram-clone
+
+---
+
+### 🏘 Innovation Village
+
+Community-focused web application developed using HTML, CSS and JavaScript.
+
+🔗 Repository:
+https://github.com/yajashkhamar-python/Innovation-village
+
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=yajashkhamar-python&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yajashkhamar-python&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
 # 🔥 GitHub Streak
 
-<p align="center">
+<div align="center">
 
 <img src="https://streak-stats.demolab.com?user=yajashkhamar-python&theme=tokyonight&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
-# 🚀 Featured Projects
+# 🤝 Connect with Me
 
-## 🌦 Weather Analytics Dashboard
+<p align="left">
 
-Real-time weather analytics dashboard using **JavaScript**, **Open-Meteo API**, and **Chart.js** featuring live weather updates, analytics, rainfall insights, and responsive design.
-
----
-
-## 👨‍💼 StaffSync
-
-Employee Management System developed in **Java** with employee records, leave management, and administrative functionalities.
-
----
-
-## 📸 Instagram Clone
-
-Responsive Instagram-inspired web application built using **HTML**, **CSS**, **Bootstrap**, and **JavaScript**.
-
----
-
-## 🏘 Innovation Village
-
-Community-focused web application designed to provide an interactive and user-friendly platform.
-
----
-
-# 🎯 Currently Working On
-
-- 🚀 Full Stack Web Development
-- 💡 Building Real-World Projects
-- 📚 Data Structures & Algorithms
-- ⚡ REST API Development
-- 🌐 React + Django Applications
-
----
-
-# 🌱 Currently Learning
-
-- Advanced React
-- System Design
-- Backend Best Practices
-- Software Engineering Principles
-
----
-
-# 📈 Goals for 2026
-
-✔ Build impactful Full Stack Projects
-
-✔ Contribute to Open Source
-
-✔ Crack a Software Development Internship
-
-✔ Strengthen DSA & Problem Solving
-
-✔ Become an Industry-Ready Software Engineer
-
----
-
-# 🤝 Connect With Me
-
-<p align="center">
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+<a href="https://www.linkedin.com/in/yajash-khamar-14b9b9319/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-Mail-red?style=for-the-badge&logo=gmail"/>
+<a href="mailto:yajashkhamar@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
 </p>
@@ -161,6 +132,6 @@ Community-focused web application designed to provide an interactive and user-fr
 
 ### ⭐ Thanks for visiting my profile!
 
-*"Code. Learn. Build. Improve. Repeat."*
+### Building • Learning • Improving • Growing 🚀
 
 </div>

@@ -2,123 +2,120 @@
 
 # Hi 👋, I'm Yajash Khamar
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;Computer+Engineering+Student;Building+Real-World+Projects;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1200&color=2F81F7&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;Computer+Engineering+Student;Java+%7C+Python+%7C+React+Developer;Building+Real-World+Projects" />
+
+<img src="https://komarev.com/ghpvc/?username=yajashkhamar-python&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-- 🎓 Computer Engineering Student at **LJ University**
-- 💻 Passionate about **Full Stack Web Development**
-- 🚀 Love building real-world applications using modern technologies
-- 🤝 Looking for **Software Development Internship Opportunities**
-- 🌱 Continuously improving through projects, DSA, and backend development
+🎓 Computer Engineering Student at **LJ University**
 
----
+💻 Passionate about **Full Stack Web Development**
 
-## 🚀 Tech Stack
+🚀 Interested in building scalable and real-world web applications
 
-### Programming Languages
+🌱 Currently strengthening my skills in Backend Development, REST APIs and DSA
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,javascript" />
-</p>
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react" />
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,django" />
-</p>
-
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-</p>
+🤝 Open to Software Development Internship Opportunities
 
 ---
 
-# 📌 Featured Projects
+# 🚀 Tech Stack
 
-### 🌦 Weather Analytics Dashboard
+<p align="center">
 
-Real-time weather analytics dashboard built using Open-Meteo API, Chart.js and JavaScript with weather forecasting, analytics and responsive UI.
+<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,bootstrap,react,nodejs,express,django,mysql,mongodb,git,github,vscode,postman" />
 
-🔗 Repository:
-https://github.com/yajashkhamar-python/weather-analytics-dashboard
-
----
-
-### 👨‍💼 StaffSync
-
-Employee Management System developed in Java with employee records management and administrative features.
-
-🔗 Repository:
-https://github.com/yajashkhamar-python/StaffSync
-
----
-
-### 📸 Instagram Clone
-
-Responsive Instagram-inspired social media interface built using HTML, CSS, Bootstrap and JavaScript.
-
-🔗 Repository:
-https://github.com/yajashkhamar-python/instagram-clone
-
----
-
-### 🏘 Innovation Village
-
-Community-focused web application developed using HTML, CSS and JavaScript.
-
-🔗 Repository:
-https://github.com/yajashkhamar-python/Innovation-village
+</p>
 
 ---
 
 # 📊 GitHub Statistics
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=yajashkhamar-python&theme=tokyonight&hide_border=true"/>
-<img src="https://github-profile-trophy.vercel.app/?username=yajashkhamar-python&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=yajashkhamar-python&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yajashkhamar-python&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
 # 🔥 GitHub Streak
 
-<div align="center">
+<p align="center">
 
 <img src="https://streak-stats.demolab.com?user=yajashkhamar-python&theme=tokyonight&hide_border=true"/>
 
-</div>
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=yajashkhamar-python&theme=tokyonight&no-frame=true&margin-w=10"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+### 🌦 Weather Analytics Dashboard
+
+Weather analytics dashboard using Open-Meteo API and Chart.js with real-time forecasting and interactive visualizations.
+
+🔗 **Repository:**  
+https://github.com/yajashkhamar-python/weather-analytics-dashboard
+
+---
+
+### 👨‍💼 StaffSync
+
+Java-based Employee Management System with employee records and administrative features.
+
+🔗 **Repository:**  
+https://github.com/yajashkhamar-python/StaffSync
+
+---
+
+### 📸 Instagram Clone
+
+Responsive Instagram-inspired interface built using HTML, CSS, Bootstrap and JavaScript.
+
+🔗 **Repository:**  
+https://github.com/yajashkhamar-python/instagram-clone
+
+---
+
+### 🏘 Innovation Village
+
+Community-focused web application built using HTML, CSS and JavaScript.
+
+🔗 **Repository:**  
+https://github.com/yajashkhamar-python/Innovation-village
 
 ---
 
 # 🤝 Connect with Me
 
-<p align="left">
+<p align="center">
 
 <a href="https://www.linkedin.com/in/yajash-khamar-14b9b9319/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
+&nbsp;&nbsp;
+
 <a href="mailto:yajashkhamar@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
 </a>
 
 </p>
@@ -129,6 +126,6 @@ https://github.com/yajashkhamar-python/Innovation-village
 
 ### ⭐ Thanks for visiting my profile!
 
-### Building • Learning • Improving • Growing 🚀
+**Building • Learning • Improving • Growing 🚀**
 
 </div>
